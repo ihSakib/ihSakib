@@ -22,10 +22,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIB797&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
         alt="Top Languages"> <img  style="height: 180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SAKIB797&theme=react&hide_border=false" alt="GitHub Streak"> 
 </br></br>
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SAKIB797&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </br>
-# 🌐 Socials
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SAKIB797) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihSakib) 
 
 
