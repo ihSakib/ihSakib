@@ -7,7 +7,7 @@
 💬 Feel free to reach out with any questions or ideas!
 </br></br>
 # 🏅 Competitive Programming
-<a href="https://leetcode.com/u/SAKIB797/" target="_blank"><img src="https://leetcard.jacoblin.cool/SAKIB797?theme=light&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="250px"></a> <a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" height="250px"></a>
+<a href="https://leetcode.com/u/SAKIB797/" target="_blank"><img src="https://leetcard.jacoblin.cool/SAKIB797?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="230px"></a> <a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" height="230px"></a>
 <!--
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/sakib797.svg)](https://codeforces.com/profile/SAKIB797) [![LeetCode user SAKIB797](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSAKIB797&logo=leetcode&logoColor=yellow)](https://leetcode.com/SAKIB797/)
 --> 
