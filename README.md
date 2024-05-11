@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://github.com/SAKIB797/sakib797/assets/99905109/70c21655-651f-403d-84d1-dfc653b64276" style="width: 20%;">
+ <img src="https://github.com/SAKIB797/sakib797/assets/99905109/70c21655-651f-403d-84d1-dfc653b64276" style=" width: 20%;">
 </p>
 
 # 💫 About Me   
-👋 Hey there! I'm **_Iftekhar Sakib_**, a passionate enthusiast exploring the vast landscape of Computer Science in my studies.<!-- I'm deeply interested in various technologies and their applications. I'm currently on the lookout for collaboration opportunities in Open Source Projects, as I believe in the power of teamwork and collective learning.--> 
+👋 Hey there! I'm **_Iftekhar Sakib_**, a passionate enthusiast exploring the vast landscape of Computer Science in my studies.<!-- I'm deeply interested in various technologies and their applications. I'm currently on the lookout for collaboration opportunities in Open Source Projects, as I believe in the power of teamwork and collective learning.-->
+
 🤝 I'm also keen on seeking mentorship from experienced professionals who can guide me through the complexities of software development and help me grow both personally and professionally. 
+
 🌱 Right now, I'm immersing myself in the MERN Stack, diving into the depths of MongoDB, Express.js, React, and Node.js. I find the versatility and efficiency of these technologies fascinating, and I'm excited to deepen my understanding of them further. 
+
 💬 Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm always up for a chat and eager to exchange knowledge and insights. Let's connect and explore the endless possibilities together! 
 
 # 💻 Tech Stack
