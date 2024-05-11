@@ -17,7 +17,7 @@
 </br>
 
 # 🏅 Competitive Programming
-<a href="https://leetcode.com/u/SAKIB797/" target="_blank"><img src="https://leetcard.jacoblin.cool/SAKIB797?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="230px"></a> <a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" height="230px"></a>
+<a href="https://leetcode.com/u/SAKIB797/" target="_blank"><img src="https://leetcard.jacoblin.cool/SAKIB797?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="250px"></a>  <!--<a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" height="230px"></a>-->
 </br>
 
 # 📊 GitHub Stats
