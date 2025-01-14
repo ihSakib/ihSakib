@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/SAKIB797/sakib797/assets/99905109/d76225c9-87d1-4f0c-88d8-38c02898beab" style=" width: 150px;">
+ <img src="https://github.com/SAKIB797/sakib797/assets/99905109/d76225c9-87d1-4f0c-88d8-38c02898beab" style=" width: 100px;">
 </p>
 
 ## 💫 About Me   
