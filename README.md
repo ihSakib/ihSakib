@@ -3,7 +3,7 @@
 </p> -->
 
 ## 🤖 About Me   
-Hey there! I'm **_Iftekhar Hossain Sakib_**, a passionate enthusiast exploring the vast landscape of **Computer Science** in my studies.<!-- I'm deeply interested in various technologies and their applications. I'm currently on the lookout for collaboration opportunities in Open Source Projects, as I believe in the power of teamwork and collective learning.-->
+Hello, I'm **Iftekhar Hossain Sakib**, a passionate **Computer Science** student currently learning **software development** and exploring the dynamic world of technology.<!-- I'm deeply interested in various technologies and their applications. I'm currently on the lookout for collaboration opportunities in Open Source Projects, as I believe in the power of teamwork and collective learning.-->
 
 <!--Right now, I'm immersing myself in the **MERN** Stack, diving into the depths of MongoDB, Express.js, React, and Node.js. I find the versatility and efficiency of these technologies fascinating, and I'm excited to deepen my understanding of them further. -->
 
