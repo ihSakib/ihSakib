@@ -16,25 +16,6 @@ Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm al
 ## Competitive Programming
 <a href="https://leetcode.com/u/ihSakib" target="_blank"><img src="https://leetcard.jacoblin.cool/ihSakib?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="250px"></a> <a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" height="253px"></a>
 
-## GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=SAKIB797&theme=react&hide_border=false&include_all_commits=false&count_private=true) -->
-<!-- <img  style="height: 180px; " src="https://github-readme-streak-stats.herokuapp.com/?user=ihSakib&theme=react&hide_border=false" alt="GitHub Streak">   -->
- <img style="height: 180px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihSakib&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
-        alt="Top Languages">
-        
-<!--
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ihSakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-## Education
-
-| Degree        | Institution                      | Year            |
-| ------------- | -------------------------------- | --------------- |
-| Bachelor's in Computer Science | Chandpur Science and Technology University   | In progress |
-| Higher Secondary | Hajiganj Model Govt. College | 2021 |
-| Secondary | Rahimanagar BAB High School | 2019 |
-
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ihsakib.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsakib) 
