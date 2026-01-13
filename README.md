@@ -2,21 +2,21 @@
  <img src="https://github.com/SAKIB797/sakib797/assets/99905109/d76225c9-87d1-4f0c-88d8-38c02898beab" style=" width: 100px;">
 </p> -->
 
-## 🤖 About Me   
+## About Me   
 Hello, I'm **Iftekhar Hossain Sakib**, a passionate **Computer Science** student currently learning **software development** and exploring the dynamic world of technology.<!-- I'm deeply interested in various technologies and their applications. I'm currently on the lookout for collaboration opportunities in Open Source Projects, as I believe in the power of teamwork and collective learning.-->
 
 <!--Right now, I'm immersing myself in the **MERN** Stack, diving into the depths of MongoDB, Express.js, React, and Node.js. I find the versatility and efficiency of these technologies fascinating, and I'm excited to deepen my understanding of them further. -->
 
 Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm always up for a chat and eager to exchange knowledge and insights. Let's connect and explore the endless possibilities together! 
 
-## 💻 Tech Stack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)--> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%230074A3.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)    ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
   
 
-## 🏅 Competitive Programming
+## Competitive Programming
 <a href="https://leetcode.com/u/ihSakib" target="_blank"><img src="https://leetcard.jacoblin.cool/ihSakib?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" alt="LeetCode Stats"  height="250px"></a> <a href="https://codeforces.com/profile/SAKIB797"  target="_blank"><img src="https://raw.githubusercontent.com/sakib797/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" height="253px"></a>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SAKIB797&theme=react&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- <img  style="height: 180px; " src="https://github-readme-streak-stats.herokuapp.com/?user=ihSakib&theme=react&hide_border=false" alt="GitHub Streak">   -->
  <img style="height: 180px;"
@@ -24,10 +24,10 @@ Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm al
         alt="Top Languages">
         
 <!--
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ihSakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-## 🎓 Education
+## Education
 
 | Degree        | Institution                      | Year            |
 | ------------- | -------------------------------- | --------------- |
@@ -36,7 +36,7 @@ Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm al
 | Secondary | Rahimanagar BAB High School | 2019 |
 
 
-## 🌐 Socials
+## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ihsakib.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsakib) 
 
 ---
