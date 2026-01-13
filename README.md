@@ -20,6 +20,3 @@ Got any questions or ideas you'd like to discuss? Feel free to reach out! I'm al
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ihsakib.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsakib) 
 
----
-
-![](https://visitcount.itsvg.in/api?id=ihSakib&icon=0&color=0)
